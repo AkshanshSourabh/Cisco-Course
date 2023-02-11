@@ -37,4 +37,8 @@
          Switch is taken for connection
             2960 swtich has 24 normal ports and 2 gigafiber ports
             ![Switch](images/Switch.png)
+            
+         Router with Swichtes
+            ![Switch](images/Router2Swtich.png)
+
 
