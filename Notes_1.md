@@ -31,8 +31,8 @@
          - Brown
          
          Router will be used for two different networks and hub can be used when we are using the ip of same networks or the same class of network
-         ![Hub](images/Single&nbspHub.png)
-      
+         ![Hub](images/Single_Hub.png)
+         ![Hub](images/Two_Hub.png)
          
          Switch is taken for connection
             2960 swtich has 24 normal ports and 2 gigafiber ports
